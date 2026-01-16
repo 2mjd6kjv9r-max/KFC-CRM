@@ -1,8 +1,1 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "https://kfc-crm.onrender.com/api/$1"
-    }
-  ]
-}
+
